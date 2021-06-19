@@ -1,0 +1,7 @@
+fiersabesari_2012_1,2012,fiersa besari,media kita,jejak langkah
+PramoedyaAnantatoer_2001_1,2001,Pramoedya Anantatoer,Gramedia,Bumi Manusia
+purcell_2009_1,2009,purcell,wiley,calculus
+faqihza_2015_1,2015,faqihza,elexmedia,belajar C++
+faqihza_2019_2,2019,faqihza,gramedia,belajar python
+M.Ridho_2025_1,2025,M. Ridho,Gramedia,Belajar Mandiri
+luffy_2023_1,2023,luffy,elexmedia,one piece
